@@ -1,0 +1,6 @@
+client gebruiken ipv actor bij activity diagram
+op examen ook op client niveau invoer controle
+pakket claimen input actor veranderen
+bij diagram altijd checken of databse wel gegevens heeft
+adres opsplitsen in meerdere rows in db
+woonplaats tabel toevoegen
